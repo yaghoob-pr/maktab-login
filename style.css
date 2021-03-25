@@ -11,6 +11,11 @@ html {
   box-sizing: border-box;
 }
 
+h1 {
+  text-align: center;
+  color: white;
+}
+
 .container {
   display: flex;
   justify-content: center;
